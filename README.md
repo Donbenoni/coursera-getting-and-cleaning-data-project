@@ -1,5 +1,24 @@
 # coursera-getting-and-cleaning-data-project
 course project for Coursera "Getting and Cleaning Data"
+
+The project is to merge 2 datasets and "clean" the new data file.
+
+Steps followed,
+Download file, unzip
+assign tables, (test and training)
+
+assign col names
+
+Merge together and assign col names.
+
+Cal mean and std for selected columns.
+
+Create subset.
+
+Create second tidy set and write to txt file.
+
+
+
 The dataset includes the following files:
 =========================================
 
